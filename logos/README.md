@@ -1,0 +1,1 @@
+Place faiv.png and lumen.png in this folder before starting the server.

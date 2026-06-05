@@ -21,6 +21,7 @@ module.exports.config = {
     bodyParser: false,
     responseLimit: false,
   },
+  
   maxDuration: 60,
 };
 

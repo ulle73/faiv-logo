@@ -1,4 +1,5 @@
-const formidable = require('formidable');
+const formidableModule = require('formidable');
+const formidable = formidableModule.formidable || formidableModule.default || formidableModule;
 const AdmZip = require('adm-zip');
 const sharp = require('sharp');
 const fs = require('fs');
